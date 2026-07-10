@@ -1,4 +1,4 @@
-![Power BI Dashboard](Ecommerce_Dashboard_Screenshot.png)
+![Power BI Dashboard](Ecommerce_dashboard_screenshot.png)
 
 # 📊 E-Commerce Customer Analytics & Business Insights
 
